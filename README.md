@@ -2,6 +2,7 @@
 
 
 <img src="https://i.ibb.co.com/rKgV4rc4/Linked-In-Cover.png" alt="" border="0">
+<img src="./belal-animated.svg" alt="Belal Hossen" />
 
 
 
