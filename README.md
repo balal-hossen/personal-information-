@@ -2,7 +2,8 @@
 
 
 <img src="https://i.ibb.co.com/rKgV4rc4/Linked-In-Cover.png" alt="" border="0">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0B66C3&vCenter=true&width=600&lines=Belal+Hossen;Frontend+Web+Developer;MERN+Stack+Learner;Passionate+about+Coding+%26+Problem+Solving)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0B66C3&vCenter=true&width=600&lines=Belal+Hossen;Frontend+Web+Developer;MERN+Stack+Learner;Passionate+about+Coding+%26+Problem+Solving)
+
 
 
 
