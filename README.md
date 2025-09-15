@@ -1,8 +1,7 @@
 # Hi there, I'm Balal Hossen 👋
 
 
-<img src="https://i.ibb.co/QGbQ4Gg/Linked-In-Cover.png
-" alt="" border="0">
+<img src="https://i.ibb.co.com/rKgV4rc4/1755964218582.jpg/Linked-In-Cover.png" alt="" border="0">
 
 
 
