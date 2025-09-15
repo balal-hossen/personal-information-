@@ -37,7 +37,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 -🔗 [Lost And Found Platform](https://lost-and-found-website-8c162.web.app/)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balal-hossen&show_icons=true&theme=radical)
 
 ## 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipok-kumar-ray&layout=compact&theme=radical)
