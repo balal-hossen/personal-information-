@@ -1,8 +1,8 @@
 # Hi there, I'm Balal Hossen 👋
 
 
-<img src="https://i.ibb.co.com/rKgV4rc4/Linked-In-Cover.png" alt="" border="0">
-![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=3000&color=0B66C3&vCenter=true&width=600&lines=Belal+Hossen;Frontend+Web+Developer;MERN+Stack+Learner;Passionate+about+Coding+%26+Problem+Solving)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0000FF&width=800&lines=Hi+there%2C+I%27m+MD+BALAL+HOSSEN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F700&width=800&lines=Hi+there%2C+I%27m+MD+BALAL+HOSSEN&lines=Frontend+Web+Developer)](https://git.io/typing-svg)
 
 
 
