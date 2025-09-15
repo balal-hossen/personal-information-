@@ -1,7 +1,7 @@
-# Hi there, I'm Dipok Kumar Ray 👋
+# Hi there, I'm Balal Hossen 👋
 
 
-<img src="https://i.ibb.co.com/QGbQ4Gg/Linked-In-Cover.png" alt="" border="0">
+<img src="https://ibb.co.com/93WYQ37N/Linked-In-Cover.png" alt="" border="0">
 
 
 ## 🚀 About Me
