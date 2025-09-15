@@ -31,9 +31,9 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 </p>
 
 ## 📌 Featured Projects
--🔗 [Local Food Waste Reduction Platform](https://medical-camp-10888.web.app/)
+-🔗 [Medical Camp Platform](https://medical-camp-10888.web.app/)
 
--🔗 [Knowledge sharing Platform](https://lost-and-found-website-8c162.web.app/)
+-🔗 [Lost And Found Platform](https://lost-and-found-website-8c162.web.app/)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical)
