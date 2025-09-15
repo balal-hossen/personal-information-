@@ -2,7 +2,8 @@
 
 
 <img src="https://i.ibb.co.com/rKgV4rc4/Linked-In-Cover.png" alt="" border="0">
-<img src="./belal-animated.svg" alt="Belal Hossen" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0B66C3&vCenter=true&lines=Belal+Hossen)](https://git.io/typing-svg)
+
 
 
 
